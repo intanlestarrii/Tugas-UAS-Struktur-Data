@@ -207,10 +207,11 @@ python main.py
 
 Flowchart sistem tersedia pada file:
 ![Flowchart](flowchart.png.png)
-```text
 
 ## Kesimpulan
 
 Program Sistem Manajemen Perpustakaan berhasil dibuat menggunakan Python dengan penyimpanan data berbasis CSV. Program telah memenuhi ketentuan Final Project Struktur Data dengan mengimplementasikan CRUD (Create, Read, Update, Delete), Dictionary (Hash Map), Linear Search, Bubble Sort, Stack, serta Flat File Database (.CSV).
+
+
 
 
