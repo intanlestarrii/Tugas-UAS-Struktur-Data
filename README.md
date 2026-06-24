@@ -158,11 +158,11 @@ Program menggunakan file CSV sebagai media penyimpanan data.
 Contoh isi file:
 
 ```csv
-ID,Judul,Penulis,Tahun
-B001,Laskar Pelangi,Andrea Hirata,2005
-B002,Cantik Itu Luka,Eka Kurniawan,2002
-B003,Gadis Kretek,Ratih Kumala,2012
-B004,Dilan 1990,Pidi Baiq,2014
+ID,Judul,Penulis,Tahun,Genre,Stok
+001,Butterflies,Ale,2021,Romance,2
+002,KKN di Desa Penari,Simpleman,2019,Horror,2
+003,Dilan 1990,Pidi Baiq,Romance,2014,10
+004,Hujan,Tere Liye,Romance,2016,2
 ```
 
 ---
